@@ -1,0 +1,22 @@
+ls -F -r 列出当前工作目录
+
+cd - 返回下一级别
+
+cd .. 上一级别
+
+mkdir 创建目录 -p                  //创建任意中继文件夹，如 mkdir 2016-05-20/data/processed 若没有data文件夹则会自动创建。 mkdir [path]创建一个新目录。
+
+touch 创建空白文档
+
+nano 创建文档
+  
+rm 移除  rm -r                    //删除目录   rm -r -i  //更保守的删除选择   没有垃圾箱：一旦删除某些内容，它就真的消失了。
+
+cp 复制                           //  cp [old] [new]复制文件。
+
+？通配符号 可代表一个字符如 ?ind.txt 可代表 mind.txt
+
+* 通配符号 可代多个字符如 *ind.txt 可代表 mind.txt、cind.txt
+
+
+
