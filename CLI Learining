@@ -20,5 +20,7 @@ cp 复制                           //  cp [old] [new]复制文件。
 
 * 通配符号 可代多个字符如 *ind.txt 可代表 mind.txt、cind.txt......
 
+mv 重新命名 mv old_filename new_name
+
 
 
